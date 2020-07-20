@@ -64,7 +64,7 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 
 ## Credits
-Special Thanks to Tensorflow for it's wonderful tutorial : https://www.tensorflow.org/lite/models/image_classification/overview
+Special Thanks to Tensorflow for it's wonderful tutorial : https://www.tensorflow.org/lite/models/image_classification/overview <br>
 Data has been taken from Hackerearth's Deep Learning Competition : https://www.hackerearth.com/problem/machine-learning/identify-the-dance-form-deea77f8/
 
 
