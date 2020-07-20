@@ -15,7 +15,7 @@ A mobile app that can identify various indian classical dance
 
 ## Demo
 
-![](https://i.imgur.com/JNfwo9B.jpg)
+![](https://i.imgur.com/kjiZBLo.jpg)
 
 
 
